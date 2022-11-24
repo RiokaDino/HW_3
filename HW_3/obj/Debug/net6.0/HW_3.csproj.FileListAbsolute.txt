@@ -1,0 +1,15 @@
+D:\All\Education\MDT211\HW_3\bin\Debug\net6.0\HW_3.exe
+D:\All\Education\MDT211\HW_3\bin\Debug\net6.0\HW_3.deps.json
+D:\All\Education\MDT211\HW_3\bin\Debug\net6.0\HW_3.runtimeconfig.json
+D:\All\Education\MDT211\HW_3\bin\Debug\net6.0\HW_3.dll
+D:\All\Education\MDT211\HW_3\bin\Debug\net6.0\HW_3.pdb
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\HW_3.csproj.AssemblyReference.cache
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\HW_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfoInputs.cache
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfo.cs
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\HW_3.csproj.CoreCompileInputs.cache
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\HW_3.dll
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\refint\HW_3.dll
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\HW_3.pdb
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\HW_3.genruntimeconfig.cache
+D:\All\Education\MDT211\HW_3\obj\Debug\net6.0\ref\HW_3.dll
